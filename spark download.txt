@@ -1,0 +1,11 @@
+
+SPARK INSTALLATION
+
+sudo mkdir -p /opt/spark
+
+sudo wget https://dlcdn.apache.org/spark/spark-3.5.3/spark-3.5.3-bin-hadoop3.tgz
+
+
+-- add to .zshrc file
+
+SPARK_HOME=/opt/spark/spark-3.5.3-bin-hadoop3
